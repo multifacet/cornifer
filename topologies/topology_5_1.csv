@@ -1,0 +1,6 @@
+metro,clients,default pop,latency,time
+metro_95,403,pop4,39,90
+metro_167,1087,pop2,43,90
+metro_116,1443,pop11,56,90
+metro_65,455,pop2,54,90
+metro_51,776,pop15,30,90

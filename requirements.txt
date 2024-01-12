@@ -1,0 +1,4 @@
+matplotlib>=3.4.3
+pandas>=1.3.4
+cvxpy>=1.1.17
+cvxopt>=1.2.7

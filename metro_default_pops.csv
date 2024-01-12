@@ -1,0 +1,232 @@
+metro,pop choices,default pop,pop_count
+metro_1,['pop10'],pop10,1
+metro_2,['pop1' 'pop2' 'pop4'],pop1,3
+metro_3,['pop16' 'pop5' 'pop9'],pop16,3
+metro_4,['pop5' 'pop14'],pop5,2
+metro_5,['pop5' 'pop16' 'pop9'],pop16,3
+metro_6,['pop4'],pop4,1
+metro_7,['pop5'],pop5,1
+metro_8,['pop13'],pop13,1
+metro_9,['pop16' 'pop5' 'pop9'],pop16,3
+metro_10,['pop5' 'pop4' 'pop1'],pop5,3
+metro_11,['pop1' 'pop2'],pop1,2
+metro_12,['pop9'],pop9,1
+metro_13,['pop1'],pop1,1
+metro_14,['pop10'],pop10,1
+metro_15,['pop10'],pop10,1
+metro_16,['pop10'],pop10,1
+metro_17,['pop10'],pop10,1
+metro_18,['pop2'],pop2,1
+metro_19,['pop1'],pop1,1
+metro_20,['pop10'],pop10,1
+metro_21,['pop10'],pop10,1
+metro_22,['pop10'],pop10,1
+metro_23,['pop5'],pop5,1
+metro_24,['pop1' 'pop2'],pop2,2
+metro_25,['pop2'],pop2,1
+metro_26,['pop14' 'pop5'],pop14,2
+metro_27,['pop1'],pop1,1
+metro_28,['pop16'],pop16,1
+metro_29,['pop5'],pop5,1
+metro_30,['pop4' 'pop1' 'pop5'],pop1,3
+metro_31,['pop1'],pop1,1
+metro_32,['pop18' 'pop15' 'pop11'],pop18,3
+metro_33,['pop10'],pop10,1
+metro_34,['pop7'],pop7,1
+metro_35,['pop5'],pop5,1
+metro_36,['pop10'],pop10,1
+metro_37,['pop1' 'pop2'],pop1,2
+metro_38,['pop5' 'pop14'],pop5,2
+metro_39,['pop7' 'pop15'],pop7,2
+metro_40,['pop9'],pop9,1
+metro_41,['pop15'],pop15,1
+metro_42,['pop10'],pop10,1
+metro_43,['pop10'],pop10,1
+metro_44,['pop15'],pop15,1
+metro_45,['pop8'],pop8,1
+metro_46,['pop16'],pop16,1
+metro_47,['pop8' 'pop4'],pop8,2
+metro_48,['pop16'],pop16,1
+metro_49,['pop5' 'pop14'],pop5,2
+metro_50,['pop9'],pop9,1
+metro_51,['pop15' 'pop18'],pop15,2
+metro_52,['pop15'],pop15,1
+metro_53,['pop1'],pop1,1
+metro_54,['pop8' 'pop4'],pop4,2
+metro_55,['pop10'],pop10,1
+metro_56,['pop9' 'pop16'],pop9,2
+metro_57,['pop4' 'pop1' 'pop2'],pop4,3
+metro_58,['pop10'],pop10,1
+metro_59,['pop10'],pop10,1
+metro_60,['pop10'],pop10,1
+metro_61,['pop10'],pop10,1
+metro_62,['pop2'],pop2,1
+metro_63,['pop9' 'pop16'],pop9,2
+metro_64,['pop15'],pop15,1
+metro_65,['pop2' 'pop1' 'pop4'],pop2,3
+metro_66,['pop10'],pop10,1
+metro_67,['pop10'],pop10,1
+metro_68,['pop5'],pop5,1
+metro_69,['pop2'],pop2,1
+metro_70,['pop1' 'pop2'],pop1,2
+metro_71,['pop1' 'pop2' 'pop5'],pop1,3
+metro_72,['pop12'],pop12,1
+metro_73,['pop1' 'pop2'],pop1,2
+metro_74,['pop15' 'pop11'],pop15,2
+metro_75,['pop14' 'pop5' 'pop1'],pop14,3
+metro_76,['pop10'],pop10,1
+metro_77,['pop4' 'pop1' 'pop5' 'pop2'],pop4,4
+metro_78,['pop5'],pop5,1
+metro_79,['pop14'],pop14,1
+metro_80,['pop16'],pop16,1
+metro_81,['pop5' 'pop14' 'pop1'],pop5,3
+metro_82,['pop10'],pop10,1
+metro_83,['pop2'],pop2,1
+metro_84,['pop2'],pop2,1
+metro_85,['pop10'],pop10,1
+metro_86,['pop1' 'pop5'],pop1,2
+metro_87,['pop16'],pop16,1
+metro_88,['pop16'],pop16,1
+metro_89,['pop4' 'pop1' 'pop2'],pop4,3
+metro_90,['pop1'],pop1,1
+metro_91,['pop10'],pop10,1
+metro_92,['pop2' 'pop1' 'pop4'],pop2,3
+metro_93,['pop1' 'pop2' 'pop4' 'pop5'],pop1,4
+metro_94,['pop1'],pop1,1
+metro_95,['pop4' 'pop2' 'pop8'],pop4,3
+metro_96,['pop1' 'pop2'],pop1,2
+metro_97,['pop10'],pop10,1
+metro_98,['pop1' 'pop2' 'pop5'],pop1,3
+metro_99,['pop14' 'pop4' 'pop5'],pop14,3
+metro_100,['pop10'],pop10,1
+metro_101,['pop1' 'pop2'],pop2,2
+metro_102,['pop2' 'pop4'],pop2,2
+metro_103,['pop9'],pop9,1
+metro_104,['pop2' 'pop1'],pop2,2
+metro_105,['pop1' 'pop2' 'pop14'],pop2,3
+metro_106,['pop14' 'pop2' 'pop5' 'pop4'],pop14,4
+metro_107,['pop14' 'pop5' 'pop2' 'pop1' 'pop4' 'pop16' 'pop15'],pop14,7
+metro_108,['pop15' 'pop7'],pop15,2
+metro_109,['pop14' 'pop8'],pop14,2
+metro_110,['pop8' 'pop4'],pop8,2
+metro_111,['pop9' 'pop15'],pop15,2
+metro_112,['pop13' 'pop10'],pop13,2
+metro_113,['pop8' 'pop14'],pop14,2
+metro_114,['pop4' 'pop1' 'pop5' 'pop2'],pop4,4
+metro_115,['pop4'],pop4,1
+metro_116,['pop11' 'pop15'],pop11,2
+metro_117,['pop9'],pop9,1
+metro_118,['pop16' 'pop5' 'pop9'],pop16,3
+metro_119,['pop15'],pop15,1
+metro_120,['pop15'],pop15,1
+metro_121,['pop12' 'pop6'],pop12,2
+metro_122,['pop7'],pop7,1
+metro_123,['pop5'],pop5,1
+metro_124,['pop10'],pop10,1
+metro_125,['pop10'],pop10,1
+metro_126,['pop7'],pop7,1
+metro_127,['pop4' 'pop1'],pop1,2
+metro_128,['pop16'],pop16,1
+metro_129,['pop9'],pop9,1
+metro_130,['pop10'],pop10,1
+metro_131,['pop4' 'pop1'],pop4,2
+metro_132,['pop9'],pop9,1
+metro_133,['pop10' 'pop13'],pop10,2
+metro_134,['pop15'],pop15,1
+metro_135,['pop15'],pop15,1
+metro_136,['pop6' 'pop12'],pop12,2
+metro_137,['pop13'],pop13,1
+metro_138,['pop1' 'pop4' 'pop2'],pop1,3
+metro_139,['pop5' 'pop14'],pop5,2
+metro_140,['pop10'],pop10,1
+metro_141,['pop16' 'pop5' 'pop9'],pop16,3
+metro_142,['pop2'],pop2,1
+metro_143,['pop8'],pop8,1
+metro_144,['pop5'],pop5,1
+metro_145,['pop18' 'pop15'],pop15,2
+metro_146,['pop15'],pop15,1
+metro_147,['pop16' 'pop5'],pop16,2
+metro_148,['pop2'],pop2,1
+metro_149,['pop10'],pop10,1
+metro_150,['pop2'],pop2,1
+metro_151,['pop12'],pop12,1
+metro_152,['pop15' 'pop18'],pop15,2
+metro_153,['pop16' 'pop5' 'pop9'],pop16,3
+metro_154,['pop8'],pop8,1
+metro_155,['pop14' 'pop8'],pop14,2
+metro_156,['pop10'],pop10,1
+metro_157,['pop2' 'pop14' 'pop4'],pop2,3
+metro_158,['pop2'],pop2,1
+metro_159,['pop2'],pop2,1
+metro_160,['pop16' 'pop5' 'pop9'],pop16,3
+metro_161,['pop16' 'pop5' 'pop9'],pop16,3
+metro_162,['pop9'],pop9,1
+metro_163,['pop7'],pop7,1
+metro_164,['pop8'],pop8,1
+metro_165,['pop17'],pop17,1
+metro_166,['pop2' 'pop1' 'pop4'],pop2,3
+metro_167,['pop2' 'pop1'],pop2,2
+metro_168,['pop1' 'pop2'],pop1,2
+metro_169,['pop10'],pop10,1
+metro_170,['pop16' 'pop5'],pop16,2
+metro_171,['pop10'],pop10,1
+metro_172,['pop15'],pop15,1
+metro_173,['pop15' 'pop11' 'pop7'],pop15,3
+metro_174,['pop7'],pop7,1
+metro_175,['pop5' 'pop4' 'pop2'],pop5,3
+metro_176,['pop5'],pop5,1
+metro_177,['pop8'],pop8,1
+metro_178,['pop2' 'pop1'],pop1,2
+metro_179,['pop8'],pop8,1
+metro_180,['pop8' 'pop4' 'pop11' 'pop14'],pop8,4
+metro_181,['pop1' 'pop5'],pop1,2
+metro_182,['pop10'],pop10,1
+metro_183,['pop10'],pop10,1
+metro_184,['pop10'],pop10,1
+metro_185,['pop1' 'pop5'],pop1,2
+metro_186,['pop4' 'pop1'],pop4,2
+metro_187,['pop6' 'pop12'],pop6,2
+metro_188,['pop8'],pop8,1
+metro_189,['pop8' 'pop4'],pop8,2
+metro_190,['pop1' 'pop2' 'pop4'],pop1,3
+metro_191,['pop7'],pop7,1
+metro_192,['pop2' 'pop4' 'pop1'],pop2,3
+metro_193,['pop12'],pop12,1
+metro_194,['pop16' 'pop5' 'pop9'],pop16,3
+metro_195,['pop5'],pop5,1
+metro_196,['pop5'],pop5,1
+metro_197,['pop10'],pop10,1
+metro_198,['pop2' 'pop14' 'pop1' 'pop4'],pop2,4
+metro_199,['pop9'],pop9,1
+metro_200,['pop4'],pop4,1
+metro_201,['pop2'],pop2,1
+metro_202,['pop11' 'pop15'],pop11,2
+metro_203,['pop16' 'pop5' 'pop9'],pop16,3
+metro_204,['pop7'],pop7,1
+metro_205,['pop17'],pop17,1
+metro_206,['pop15'],pop15,1
+metro_207,['pop2' 'pop4' 'pop1'],pop2,3
+metro_208,['pop16' 'pop5' 'pop9'],pop16,3
+metro_209,['pop16' 'pop5' 'pop9'],pop16,3
+metro_210,['pop2' 'pop1'],pop2,2
+metro_211,['pop12' 'pop6' 'pop5'],pop12,3
+metro_212,['pop7'],pop7,1
+metro_213,['pop10'],pop10,1
+metro_214,['pop2'],pop2,1
+metro_215,['pop10'],pop10,1
+metro_216,['pop10'],pop10,1
+metro_217,['pop17'],pop17,1
+metro_218,['pop5'],pop5,1
+metro_219,['pop2'],pop2,1
+metro_220,['pop10'],pop10,1
+metro_221,['pop14' 'pop1' 'pop5'],pop5,3
+metro_222,['pop15'],pop15,1
+metro_223,['pop10' 'pop13'],pop10,2
+metro_224,['pop7'],pop7,1
+metro_225,['pop2'],pop2,1
+metro_226,['pop16'],pop16,1
+metro_227,['pop10'],pop10,1
+metro_228,['pop16'],pop16,1
+metro_229,['pop8'],pop8,1
+metro_230,['pop1' 'pop4'],pop1,2
+metro_231,['pop12'],pop12,1
